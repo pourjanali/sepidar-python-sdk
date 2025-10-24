@@ -1,4 +1,3 @@
-````markdown
 🐍 Sepidar Python SDK | اس‌دی‌کی پایتون برای API سپیدار
 English: An unofficial, community-driven Python SDK designed to streamline interactions with the Sepidar System API (targeting v111+). This library aims to provide a clean, Pythonic interface for developers integrating Sepidar's accounting and ERP functionalities into their applications.
 
